@@ -1,0 +1,18 @@
+.contenedor h1{
+    text-decoration: underline;
+}
+
+
+.contenedorPokemon{
+    border: 2px solid black;
+    padding:1px;
+    margin:30px 100px
+}
+
+.contenedorPokemon h2{
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 1px;
+}
+
